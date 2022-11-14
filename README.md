@@ -5,3 +5,5 @@ A script made long long long time ago in аn accommodation far far away (ж.к �
 Run pustinqk.py and wait a couple of days to start producing solutions.
 
 The script will try to collect all possible solutions, which I believe was somewhere about 1000, if I remeber correctly.
+
+##### Yes, when I wrote this I didn't use any version control so there are some old version backed up and messy log files/messages everywhere.
